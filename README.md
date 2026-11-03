@@ -14,4 +14,4 @@ These are the public versions of posts on [cyberhippo.ca](https://cyberhippo.ca/
 
 ## About me
 
-Systems and identity administrator in Calgary. More at [cyberhippo.ca](https://cyberhippo.ca) and on [GitHub](https://github.com/cyberhippo-ca).
+Systems and identity administrator in Calgary. More at [cyberhippo.ca](https://cyberhippo.ca) and on [LinkedIn](https://Linkedin.com/in/jhilsenteger).
