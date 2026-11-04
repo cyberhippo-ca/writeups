@@ -6,6 +6,7 @@ These are the public versions of posts on [cyberhippo.ca](https://cyberhippo.ca/
 
 | Date | Write-up | What it covers |
 |---|---|---|
+| 2026-11-04 | [Remote access to a Windows Home laptop: SSH keys and VNC through a tunnel](windows-home-remote-access.md) | Windows Home has no Remote Desktop. Key-only SSH, VNC that only works through an SSH tunnel, and five fixes along the way. |
 | 2026-11-03 | [Tracking down a 100 Mbps bottleneck](slow-internet.md) | Reading a speed test, testing one switch at a time, and the damaged cable behind it. Plus a TV on the wrong side of the firewall. |
 | 2026-11-03 | [My first Wazuh alert: finding exposed Docker ports](wazuh-docker-exposure.md) | Setting up a SIEM, then following its first alert to a Docker API and a leftover DNS server open to the whole network. |
 | 2026-10-28 | [An offline knowledge and AI box with Project NOMAD](project-nomad.md) | Offline Wikipedia, maps and a local AI model on a gaming laptop, and why a map download broke the setup wizard. |
